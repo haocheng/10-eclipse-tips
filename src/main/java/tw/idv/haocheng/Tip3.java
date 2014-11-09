@@ -1,6 +1,6 @@
 package tw.idv.haocheng;
 
-import static java.util.Arrays.sort;
+import static java.util.Arrays.*;
 
 import java.util.Arrays;
 
