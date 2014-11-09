@@ -47,6 +47,7 @@ import java.util.stream.StreamSupport;
 
 public class Tip8 {
 
+	// split editor
 	public static void main(String[] args) {
 		// Ctrl +Shift + _ -> split vertically
 

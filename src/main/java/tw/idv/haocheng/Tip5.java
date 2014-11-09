@@ -7,6 +7,7 @@ import java.util.List;
 
 public class Tip5 {
 
+	// enable save action in preference
 	public interface IAction {
 		void action();
 	}

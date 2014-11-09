@@ -1,22 +1,22 @@
 package tw.idv.haocheng;
 
-import java.time.Instant;
-import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.List;
 
 public class Tip9 {
 
+	// code recommender
 	public static void main(String[] args) {
 		// Intelligent Code Completion
-		
-		
-		
-		// Subwords Completion
+		// for type
+		// List<String> strings = new A
 
+		// for method
+		// strings.
+
+		// Subwords Completion
+		// String test = "test";
+		// test.ig
 	}
 
 }

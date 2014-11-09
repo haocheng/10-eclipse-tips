@@ -2,6 +2,7 @@ package tw.idv.haocheng;
 
 public class Tip7 {
 
+	// selection
 	public static long fibonacci(long number) {
 		// Shift + Alt + Up/Down -> Select Enclosing Element
 		if ((number == 0) || (number == 1)) {

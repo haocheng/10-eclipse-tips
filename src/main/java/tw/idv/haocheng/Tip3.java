@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 public class Tip3 {
 
+	// add favorite for static member content assist in preference
 	public static void main(String[] args) {
 		//
 		// asList("1","2");

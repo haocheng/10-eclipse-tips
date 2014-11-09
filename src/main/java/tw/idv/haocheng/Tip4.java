@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Tip4 {
 
+	// filter types not used in preference
 	public static void main(String[] args) {
 		// filter java.awt
 		// List
