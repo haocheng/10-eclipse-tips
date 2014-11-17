@@ -1,6 +1,5 @@
 package tw.idv.haocheng;
 
-import java.io.IOException;
 
 public class Tip1 {
 

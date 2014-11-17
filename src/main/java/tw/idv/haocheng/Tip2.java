@@ -4,7 +4,7 @@ public class Tip2 {
 
 	// ctrl + 2 - quick assist
 	public static void main(String[] args) {
-		//  extract local var
+		// extract local var
 		new String("local var");
 
 		// extract field

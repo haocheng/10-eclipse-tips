@@ -1,7 +1,7 @@
 package tw.idv.haocheng;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Tip9 {
 
@@ -9,14 +9,19 @@ public class Tip9 {
 	public static void main(String[] args) {
 		// Intelligent Code Completion
 		// for type
-		// List<String> strings = new A
+		// List<?> strings = new A
 
-		// for method
-		// strings.
+		// for method call
+		String str = "eclipse code recommender";
+		Pattern pattern = Pattern.compile("code recommender");
+		Matcher matcher = pattern.matcher(str);
+		// matcher.
 
 		// Subwords Completion
 		// String test = "test";
-		// test.ig
+		// test.
 	}
+	
+	// for override
 
 }
