@@ -5,4 +5,4 @@ This is the Demo project for "10 Eclipse Tips in 15 minutes" presentation in JCC
 
 jcconf: http://jcconf.tw/
 
-slides will be avaialable after the conference
+slides: http://www.slideshare.net/haochenglee/10-eclipse-tips-in-15-m
